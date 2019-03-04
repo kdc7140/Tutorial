@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//피보나치 수열
 public class Recursion {
 	
 	private static int recursiveFibo(int x){
